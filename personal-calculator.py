@@ -26,6 +26,5 @@ else:
 
 
 
-Student Grade Calculator
-
  
+
